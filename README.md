@@ -25,15 +25,4 @@ For comprehensive technical details, methodology, and analysis, read our researc
 | **Recall** | 56.17% | 48.6% | 63.8% |
 | **mAP50** | 66.57% | 61.38% | 71.76% |
 
-## 🚀 Quick Start
-
-#### ⚠️ Important: Always double-check paths in Google Colab!
-
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/seatbelt-detection.git
-cd seatbelt-detection
-
-# Install dependencies
-pip install -r requirements.txt
+## ⚠️ Important: Always double-check paths in Google Colab!
